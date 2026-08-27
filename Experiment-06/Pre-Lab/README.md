@@ -1,7 +1,6 @@
 # Experiment 06: PCA and Clustering Models
 
-**Name:** R. Karthik  
-**Roll No:** 25EU02904
+**Roll No:** 25EU02901
 
 ## Pre-Lab Tasks
 

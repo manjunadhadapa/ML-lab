@@ -1,7 +1,7 @@
 # Experiment 06 - Task 01
 
-**Name:** R. Karthik  
-**Roll No:** 25EU02904
+**Name:**Manjunadh  
+**Roll No:** 25EU02901
 
 ## Objective
 

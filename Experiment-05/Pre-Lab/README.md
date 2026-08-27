@@ -1,7 +1,7 @@
 # Experiment 05: Decision Tree and Ensemble Learning Models
 
-**Name:** R. Karthik  
-**Roll No:** 25EU02904
+**Name:** Manjunadh 
+**Roll No:** 25EU02901
 
 ## Pre-Lab Tasks
 

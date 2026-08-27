@@ -1,6 +1,6 @@
 # Experiment 04: Regression Modeling and Training Strategies
 
-**Name:** Manjunadh
+**Name:** Manjunadh.
 
 ## Pre-Lab Tasks
 
